@@ -1,0 +1,133 @@
+[
+    {
+        "img": "https://images.trvl-media.com/hotels/1000000/10000/500/476/5fbe63b2_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Pan Pacific Sonargaon",
+        "distance": "500m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 1 bathRoom * 21m2 1 full bed",
+        "taxOp": "Free airport taxi",
+        "tax": "Includes taxes and fees",
+        "rating": "8.4",
+        "price": "200"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/1000000/20000/18900/18818/ef83f40a_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "InterContinental Dhaka,an IHG Hotel",
+        "distance": "400m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 1 bathRoom * 21m2 2 full bed",
+        "taxOp": "Free airport taxi",
+        "tax": "Includes taxes and fees",
+        "rating": "8.5",
+        "price": "220"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/48000000/47020000/47016600/47016536/df0e3f9c_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Holiday Inn Dhaka City Centre,an IHG Hotel",
+        "distance": "300m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 1 bathRoom * 21m2 1 full bed",
+        "taxOp": "Free airport taxi",
+        "tax": "Includes taxes and fees",
+        "rating": "8.4",
+        "price": "200"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/11000000/10450000/10440100/10440069/85efd589_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Le Meridien Dhaka",
+        "distance": "200m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 1 bathRoom * 21m2 2 full bed",
+        "taxOp": "Free airport taxi",
+        "tax": "Includes taxes and fees",
+        "rating": "8.2",
+        "price": "210"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/2000000/1460000/1450300/1450238/4621fa77_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Radisson Blu Dhaka Water Garden",
+        "distance": "500m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 1 bathRoom * 21m2 1 full bed",
+        "taxOp": "Free airport taxi",
+      
+        "rating": "8.1",
+        "price": "190"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/77000000/76790000/76783700/76783682/2cbcdd3c_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Grand Sylhet Hotel & Resort",
+        "distance": "100m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 1 bathRoom * 21m2 1 full bed",
+        "taxOp": "Free airport taxi",
+        
+        "rating": "8.0",
+        "price": "180"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/61000000/60610000/60601500/60601472/8003487e_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Grand Palace Hotel & Resort Sylhet",
+        "distance": "400m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 2 bathRoom * 21m2 2 full bed",
+        "taxOp": "Free airport taxi",
+        "tax": "Includes taxes and fees",
+        "rating": "8.4",
+        "price": "220"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/18000000/17350000/17349200/17349184/4e87de5c_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Hotel Noorjahan Grand",
+        "distance": "600m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 1 bathRoom * 21m2 2 full bed",
+        "taxOp": "Free airport taxi",
+        
+        "rating": "8.3",
+        "price": "210"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/12000000/11570000/11568100/11568068/3c82581c_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Rose View Hotel",
+        "distance": "500m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 2 bathRoom * 21m2 3 full bed",
+        "taxOp": "Free airport taxi",
+        "tax": "Includes taxes and fees",
+        "rating": "8.5",
+        "price": "250"
+
+
+    },
+    {
+        "img": "https://images.trvl-media.com/hotels/38000000/37610000/37608600/37608582/3755ac3c_y.jpg?impolicy=fcrop&w=420&h=224&q=medium",
+        "title": "Excelsior Sylhet Hotel & Resort",
+        "distance": "200m from center",
+        "subTitle": "Studio Apartment with Air conditioning",
+        "features": "Entire Studio * 2 bathRoom * 21m2 2 full bed",
+        "taxOp": "Free airport taxi",
+        "tax": "Includes taxes and fees",
+        "rating": "8.6",
+        "price": "240"
+
+
+    }
+    
+]
